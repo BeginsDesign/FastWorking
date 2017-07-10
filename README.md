@@ -12,3 +12,5 @@ https://github.com/lcodecorex/TwinklingRefreshLayout/blob/master/README_CN.md
 Crosswalk WebView: https://crosswalk-project.org/
 
 AgentWeb :https://github.com/Justson/AgentWeb
+
+好用的js bridge：https://github.com/wendux/DSBridge-Android 
