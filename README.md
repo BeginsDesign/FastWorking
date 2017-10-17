@@ -21,3 +21,8 @@ AgentWeb :https://github.com/Justson/AgentWeb
 好用的js bridge：https://github.com/wendux/DSBridge-Android 
 
 WebView详解 : http://reezy.me/p/20170515/android-webview/
+
+### DataBinding
+
+[DataBinding 使用详解一](http://blog.csdn.net/kong_gu_you_lan/article/details/75628465)
+[DataBinding 使用详解二](http://blog.csdn.net/kong_gu_you_lan/article/details/76020050)
