@@ -22,6 +22,8 @@ https://github.com/scwang90/SmartRefreshLayout
 
 [WebView详解](http://reezy.me/p/20170515/android-webview/)
 
+[WebView js与Java的交互](http://www.jianshu.com/p/b9164500d3fb)
+
 ### DataBinding
 
 [DataBinding 使用详解一](http://blog.csdn.net/kong_gu_you_lan/article/details/75628465)
