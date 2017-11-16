@@ -24,7 +24,7 @@ https://github.com/scwang90/SmartRefreshLayout
 
 [WebView js与Java的交互](http://www.jianshu.com/p/b9164500d3fb)
 
-[CacheWebView 让缓存跟简单](https://github.com/yale8848/CacheWebView)
+[CacheWebView 让缓存更简单](https://github.com/yale8848/CacheWebView)
 
 ### DataBinding
 
