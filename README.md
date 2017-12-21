@@ -31,3 +31,7 @@ https://github.com/scwang90/SmartRefreshLayout
 [DataBinding 使用详解一](http://blog.csdn.net/kong_gu_you_lan/article/details/75628465)
 
 [DataBinding 使用详解二](http://blog.csdn.net/kong_gu_you_lan/article/details/76020050)
+
+
+### UI 效果
+[兼容android 低版本场景动画库](https://github.com/andkulikov/Transitions-Everywhere)
