@@ -39,3 +39,7 @@ https://github.com/scwang90/SmartRefreshLayout
 [path 动画库](https://github.com/tarek360/RichPath)
 
 [RecyclerView 或 Fragment 之间的动画过度](https://github.com/mwajeeh/AnimationsPlayground)
+
+### 换肤
+
+[一键换肤](https://github.com/ximsfei/Android-skin-support)
