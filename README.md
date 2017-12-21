@@ -37,3 +37,5 @@ https://github.com/scwang90/SmartRefreshLayout
 [兼容android 低版本场景动画库](https://github.com/andkulikov/Transitions-Everywhere)
 
 [path 动画库](https://github.com/tarek360/RichPath)
+
+[RecyclerView 或 Fragment 之间的动画过度](How to connect multiple recyclerview or fragment for animation like shown)
