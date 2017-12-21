@@ -38,4 +38,4 @@ https://github.com/scwang90/SmartRefreshLayout
 
 [path 动画库](https://github.com/tarek360/RichPath)
 
-[RecyclerView 或 Fragment 之间的动画过度](How to connect multiple recyclerview or fragment for animation like shown)
+[RecyclerView 或 Fragment 之间的动画过度](https://github.com/mwajeeh/AnimationsPlayground)
