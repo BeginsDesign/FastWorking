@@ -43,3 +43,6 @@ https://github.com/scwang90/SmartRefreshLayout
 ### 换肤
 
 [一键换肤](https://github.com/ximsfei/Android-skin-support)
+
+### 手势识别
+[效果很赞的手势识别库](https://github.com/alexvasilkov/GestureViews)
