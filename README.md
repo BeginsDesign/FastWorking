@@ -46,3 +46,11 @@ https://github.com/scwang90/SmartRefreshLayout
 
 ### 手势识别
 [效果很赞的手势识别库](https://github.com/alexvasilkov/GestureViews)
+
+
+
+##文档类
+
+###Webview 优化
+[美团 WebView性能、体验分析与优化](https://tech.meituan.com/WebViewPerf.html)
+[腾讯 70%以上业务由H5开发，手机QQ Hybrid 的架构如何优化演进？](https://mp.weixin.qq.com/s/evzDnTsHrAr2b9jcevwBzA)
