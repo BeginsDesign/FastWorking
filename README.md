@@ -26,6 +26,8 @@ https://github.com/scwang90/SmartRefreshLayout
 
 [CacheWebView 让缓存更简单](https://github.com/yale8848/CacheWebView)
 
+[SuperWeb 基于腾讯X5内核的WebView](https://github.com/Victory-Over/SuperWeb)
+
 ### DataBinding
 
 [DataBinding 使用详解一](http://blog.csdn.net/kong_gu_you_lan/article/details/75628465)
