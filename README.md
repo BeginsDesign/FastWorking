@@ -28,11 +28,6 @@ https://github.com/scwang90/SmartRefreshLayout
 
 [SuperWeb 基于腾讯X5内核的WebView](https://github.com/Victory-Over/SuperWeb)
 
-### DataBinding
-
-[DataBinding 使用详解一](http://blog.csdn.net/kong_gu_you_lan/article/details/75628465)
-
-[DataBinding 使用详解二](http://blog.csdn.net/kong_gu_you_lan/article/details/76020050)
 
 
 ### UI 效果
@@ -59,3 +54,6 @@ https://github.com/scwang90/SmartRefreshLayout
 [腾讯 70%以上业务由H5开发，手机QQ Hybrid 的架构如何优化演进？](https://mp.weixin.qq.com/s/evzDnTsHrAr2b9jcevwBzA)
 
 [腾讯 移动 H5 首屏秒开优化方案探讨](https://cloud.tencent.com/developer/article/1071723)
+
+## 数据计算
+[Apache Commons-math 数学计算Library](http://commons.apache.org/proper/commons-math/userguide/overview.html)
